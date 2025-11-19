@@ -3,6 +3,7 @@
 - 🌱 I’ve learnt Full Stack Development with React Js for frontend and Java Spring Boot for backend, MySQL for database
 - 📫 How to reach me, just email me at syedkounainlife@gmail.com
 - 😄 Pronouns: he/him
+- Currently learning tech related to LLMs, AI and Machine Learning
 
 <!---
 saiyedkounain/saiyedkounain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
