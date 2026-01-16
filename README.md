@@ -25,7 +25,7 @@
 </table>
 ---
 <img alt="github contribution grid snake animation" 
-     src="https://raw.githubusercontent.com/arthurlobo/pro/arturlobo/output/github-contribution-grid-snake.svg" 
+     src="https://raw.githubusercontent.com/arthurlobopro/arthurlobopro/output/github-contribution-grid-snake-dark.svg" 
      style="visibility: visible; max-width: 100%;">
 
 
