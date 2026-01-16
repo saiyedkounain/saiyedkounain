@@ -82,11 +82,11 @@ Feel free to connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saiyedkounain/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-VasudevShetty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-saiyedkounain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://leetcode.com/saiyedkounain/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-VasudevShetty-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-saiyedkounain-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   
   <a href="mailto:syedkounainlife@gmail.com">
