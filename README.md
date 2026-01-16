@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/avatar.png" width="180" alt="Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/64273139?v=4" width="180" alt="Avatar"/>
 </p>
 
 - 👋 Hi, I’m @saiyedkounain
