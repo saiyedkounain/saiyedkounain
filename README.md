@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/avatar.png" width="180" alt="Avatar"/>
+</p>
+
 - 👋 Hi, I’m @saiyedkounain
 - 👀 I’m interested in Coding and Problem Solving Skills {I am currently working on them}
 - 🌱 I’ve learnt Full Stack Development with React Js for frontend and Java Spring Boot for backend, MySQL for database
