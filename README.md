@@ -30,6 +30,19 @@
 
 
 ---
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://github.com/saiyedkounain/PrepPilot-AI" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/PrepPilot%20AI-Visit%20Repo-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://what2watchh.netlify.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/What2Watch-Live%20App-38B2AC?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ### 🌐 WEB DEV
 
